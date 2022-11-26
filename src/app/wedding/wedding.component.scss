@@ -604,7 +604,7 @@ pre code {
   margin-right: auto;
   margin-left: auto;
 }
-@media (min-width: 389px) {
+@media (max-width: 400px) {
   .bg-gallery{
     height: 50vh !important;
     img{
