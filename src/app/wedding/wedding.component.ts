@@ -12,20 +12,20 @@ export class WeddingComponent implements OnInit {
   active: boolean = true;
   srcView = "";
   slides = [
-    "../../assets/img/gallery/LEX07764.JPG",
-    "../../assets/img/gallery/LEX07822.JPG",
-    "../../assets/img/gallery/LEX07862.JPG",
-    "../../assets/img/gallery/LEX07942.jpg",
-    "../../assets/img/gallery/LEX07985.JPG",
-    "../../assets/img/gallery/LEX08243.JPG",
-    "../../assets/img/gallery/LEX08002.JPG",
-    "../../assets/img/gallery/LEX08048.JPG",
-    "../../assets/img/gallery/LEX08073.JPG",
-    "../../assets/img/gallery/LEX08131.jpg",
-    "../../assets/img/gallery/LEX08200.jpg",
-    "../../assets/img/gallery/LEX08160.JPG",
-    "../../assets/img/gallery/LEX08183.JPG",
-    "../../assets/img/gallery/LEX08214.JPG", 
+    "assets/img/gallery/LEX07764.JPG",
+    "assets/img/gallery/LEX07822.JPG",
+    "assets/img/gallery/LEX07862.JPG",
+    "assets/img/gallery/LEX07942.jpg",
+    "assets/img/gallery/LEX07985.JPG",
+    "assets/img/gallery/LEX08243.JPG",
+    "assets/img/gallery/LEX08002.JPG",
+    "assets/img/gallery/LEX08048.JPG",
+    "assets/img/gallery/LEX08073.JPG",
+    "assets/img/gallery/LEX08131.jpg",
+    "assets/img/gallery/LEX08200.jpg",
+    "assets/img/gallery/LEX08160.JPG",
+    "assets/img/gallery/LEX08183.JPG",
+    "assets/img/gallery/LEX08214.JPG", 
   ]
   constructor() { 
   }
